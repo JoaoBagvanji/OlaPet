@@ -1,0 +1,52 @@
+{
+    "animals_temperature_frequencies":[
+        {"key": "day", "title": "todos os dias"},
+        {"key": "week", "title": "A cada semana"}
+    ],
+
+    "animals_enviroments":[
+        {"key": "living_room", "title": "Sala"},
+        {"key": "bedroom", "title": "Quarto"},
+        {"key": "yard", "title": "Quintal"},
+        {"key": "balcony", "title": "Varanda"}
+    ],
+
+    "animals":[
+        {
+            "id": 1,
+            "name": "Pastor Alemão",
+            "about": "é uma raça canina proveniente da Alemanha. Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial.",
+            "animal_tips": "o ideal é que consumam rações especiais para cães grandes que ajudem a manter os ossos fortes e consigam pular e correr sem sofrer quaisquer problemas com tanta atividade.",
+            "photo": "src/assets/2071.svg",
+            "enviroments": ["yard", "balcony", "bedroom"],
+            "frequency": {
+                "times": 5,
+                "repeat_everty" : "day"
+            }
+        },
+        {
+            "id": 1,
+            "name": "Pastor Alemão",
+            "about": "é uma raça canina proveniente da Alemanha. Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial.",
+            "animal_tips": "o ideal é que consumam rações especiais para cães grandes que ajudem a manter os ossos fortes e consigam pular e correr sem sofrer quaisquer problemas com tanta atividade.",
+            "photo": "src/assets/2071.svg",
+            "enviroments": ["yard", "balcony", "bedroom"],
+            "frequency": {
+                "times": 5,
+                "repeat_everty" : "day"
+            }
+        },
+        {
+            "id": 1,
+            "name": "Pastor Alemão",
+            "about": "é uma raça canina proveniente da Alemanha. Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial.",
+            "animal_tips": "o ideal é que consumam rações especiais para cães grandes que ajudem a manter os ossos fortes e consigam pular e correr sem sofrer quaisquer problemas com tanta atividade.",
+            "photo": "src/assets/2071.svg",
+            "enviroments": ["yard", "balcony", "bedroom"],
+            "frequency": {
+                "times": 5,
+                "repeat_everty" : "day"
+            }
+        }
+    ]
+}
