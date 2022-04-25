@@ -17,7 +17,7 @@
             "name": "Pastor Alemão",
             "about": "é uma raça canina proveniente da Alemanha. Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial.",
             "animal_tips": "o ideal é que consumam rações especiais para cães grandes que ajudem a manter os ossos fortes e consigam pular e correr sem sofrer quaisquer problemas com tanta atividade.",
-            "photo": "src/assets/2071.svg",
+            "photo": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-plantmanager/1.svg",
             "enviroments": ["yard", "balcony", "bedroom"],
             "frequency": {
                 "times": 5,
@@ -25,27 +25,63 @@
             }
         },
         {
-            "id": 1,
-            "name": "Pastor Alemão",
+            "id": 2,
+            "name": "Rotweiller",
             "about": "é uma raça canina proveniente da Alemanha. Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial.",
             "animal_tips": "o ideal é que consumam rações especiais para cães grandes que ajudem a manter os ossos fortes e consigam pular e correr sem sofrer quaisquer problemas com tanta atividade.",
-            "photo": "src/assets/2071.svg",
-            "enviroments": ["yard", "balcony", "bedroom"],
+            "photo": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-plantmanager/2.svg",
+            "enviroments": ["balcony", "bedroom"],
+            "frequency": {
+                "times": 5,
+                "repeat_everty" : "week"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Buerbull",
+            "about": "é uma raça canina proveniente da Alemanha. Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial.",
+            "animal_tips": "o ideal é que consumam rações especiais para cães grandes que ajudem a manter os ossos fortes e consigam pular e correr sem sofrer quaisquer problemas com tanta atividade.",
+            "photo": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-plantmanager/3.svg",
+            "enviroments": ["bedroom"],
             "frequency": {
                 "times": 5,
                 "repeat_everty" : "day"
             }
         },
         {
-            "id": 1,
-            "name": "Pastor Alemão",
+            "id": 4,
+            "name": "Mastiffy",
             "about": "é uma raça canina proveniente da Alemanha. Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial.",
             "animal_tips": "o ideal é que consumam rações especiais para cães grandes que ajudem a manter os ossos fortes e consigam pular e correr sem sofrer quaisquer problemas com tanta atividade.",
-            "photo": "src/assets/2071.svg",
-            "enviroments": ["yard", "balcony", "bedroom"],
+            "photo": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-plantmanager/4.svg",
+            "enviroments": ["yard"],
+            "frequency": {
+                "times": 5,
+                "repeat_everty" : "week"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Doug Argentino",
+            "about": "é uma raça canina proveniente da Alemanha. Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial.",
+            "animal_tips": "o ideal é que consumam rações especiais para cães grandes que ajudem a manter os ossos fortes e consigam pular e correr sem sofrer quaisquer problemas com tanta atividade.",
+            "photo": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-plantmanager/5.svg",
+            "enviroments": ["bedroom","balcony"],
             "frequency": {
                 "times": 5,
                 "repeat_everty" : "day"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Labrador",
+            "about": "é uma raça canina proveniente da Alemanha. Em sua origem era utilizado como cão de pastoreio de rebanhos. Atualmente é mais utilizado como cão de guarda e cão policial.",
+            "animal_tips": "o ideal é que consumam rações especiais para cães grandes que ajudem a manter os ossos fortes e consigam pular e correr sem sofrer quaisquer problemas com tanta atividade.",
+            "photo": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-plantmanager/6.svg",
+            "enviroments": ["bedroom","yard"],
+            "frequency": {
+                "times": 5,
+                "repeat_everty" : "week"
             }
         }
     ]
